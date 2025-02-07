@@ -17,3 +17,9 @@ This project helps practice:
 
 ## Click the video or link below to see the website in action!
 https://muriloapparecido.github.io/etch-a-sketch/ 
+
+<div>
+    <a href="https://www.loom.com/share/3f4b2025800f456f9196672adc1bf7a4">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/3f4b2025800f456f9196672adc1bf7a4-ff7e9780269bdc8b-full-play.gif">
+    </a>
+</div>
